@@ -109,6 +109,6 @@ ctrl+space 			open rofi application launcher
 ### Wifi rofi script
 <div align="center"><img src="/images/wifi-rofi.png" align="center"/></div>
 
-### Liked it? Give a star, and spread the word.  [<img src="http://www.clipartbest.com/cliparts/aTq/bA5/aTqbA5pTM.jpeg" alt="Star button" height="20" width="20" align="top">]
+### Liked it? Give a star, and spread the word. <img src="http://www.clipartbest.com/cliparts/aTq/bA5/aTqbA5pTM.jpeg" alt="Star button" height="20" width="20" align="top">
 
 [`Back to Top`](https://github.com/thomas154/dotfiles#my-config-files)
