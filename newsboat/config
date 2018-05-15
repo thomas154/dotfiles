@@ -1,0 +1,40 @@
+auto-reload yes
+external-url-viewer "urlview"
+
+bind-key j down
+bind-key k up
+bind-key j next articlelist
+bind-key k prev articlelist
+bind-key J next-feed articlelist
+bind-key K prev-feed articlelist
+bind-key G end
+bind-key g home
+bind-key d pagedown
+bind-key u pageup
+bind-key LEFT quit
+bind-key RIGHT open
+bind-key l open
+bind-key h quit
+bind-key a toggle-article-read
+bind-key n next-unread
+bind-key N prev-unread
+bind-key D pb-download
+bind-key U show-urls
+bind-key x pb-delete
+
+color listnormal color149 default
+color listfocus black color149 bold
+color listnormal_unread color149 default
+color listfocus_unread black color149 bold
+color info color16 black bold
+color article color174 default
+
+browser ~/scripts/./linkhandler
+macro , open-in-browser
+macro v set browser "ts mpsyt playurl %u"; open-in-browser ; set browser ~/scripts/./linkhandler
+macro y set browser "spawndl"; open-in-browser ; set browser ~/scripts/./linkhandler
+macro w set browser "qutebrowser"; open-in-browser ; set browser ~/scripts/./linkhandler
+macro m set browser "~/scripts/./dmenuhandler"; open-in-browser ; set browser ~/scripts/./linkhandler
+# c copies the link to the clipboard.
+# The line below is probably the skiddiest line I've ever written.
+macro c set browser "copy(){ echo $1 | xclip ;}; copy "; open-in-browser ; set browser ~/scripts/./linkhandler
