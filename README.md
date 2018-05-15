@@ -71,7 +71,7 @@ ctrl+space 			open rofi application launcher
 <div align="center"><img src="/images/vim_timer.png" align="center"/></div>
 
 ### Lock screen using i3 lock
-<div align="center"><img src="/images/;lockedscreen.png" align="center"/></div>
+<div align="center"><img src="/images/lockedscreen.png" align="center"/></div>
 
 ### Rofi Application launcher
 <div align="center"><img src="/images/rofi-run.png" align="center"/></div>
