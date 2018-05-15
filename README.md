@@ -53,6 +53,9 @@ ctrl+space 			open rofi application launcher
 ### i3 gaps preview
 <div align="center"><img src="/images/i3_gaps_demo.png" align="center"/></div>
 
+### Ranger
+<div align="center"><img src="/images/ranger.png" align="center"/></div>
+
 ### Tmux
 
 - Tmux split looks configured to look like splits in other terminal
