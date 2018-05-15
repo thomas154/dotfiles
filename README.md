@@ -76,6 +76,15 @@ ctrl+space 			open rofi application launcher
 ### Rofi Application launcher
 <div align="center"><img src="/images/rofi-run.png" align="center"/></div>
 
+### Dropdown terminal
+<div align="center"><img src="/images/dropdown_terminal.png" align="center"/></div>
+
+### Dropup terminal
+<div align="center"><img src="/images/dropup_terminal.png" align="center"/></div>
+
+### Tilix quake mode
+<div align="center"><img src="/images/tilix.png" align="center"/></div>
+
 ### Qutebrowser
 <div align="center"><img src="/images/qute.png" align="center"/></div>
 
