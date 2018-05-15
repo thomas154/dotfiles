@@ -89,7 +89,7 @@ ctrl+space 			open rofi application launcher
 <div align="center"><img src="/images/mpsyt.png" align="center"/></div>
 
 ### Websearch script using rofi and surfraw
-<div align="center"><img src="/images/websearch-rofi.png" align="center"/></div>
+<div align="center"><img src="/images/websearch-rofi1.png" align="center"/></div>
 
 ### Clipboard script using rofi
 <div align="center"><img src="/images/clipboard.png" align="center"/></div>
