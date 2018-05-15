@@ -4,44 +4,44 @@
 - Some quick glance at commonly used keybindings
 - Here mod is windows icon in keyboard Mod1 is alt icon
 ```
-mod+enter 			open new terminal 
-mod+Shift+r 		reload i3
-mod+w       		open qutebrowser if installed
-mod+n       		open newsboat if installed
-mod+m       		open ncmpcpp if installed
-mod+x 				  lock
-mod+v       		open visualizer(vis if installed)
-mod+c 				  open weechat if installed
-mod+i  				  open vtop if installed
-mod+f 				  fullscreen
+mod+enter       open new terminal 
+mod+Shift+r     reload i3
+mod+w           open qutebrowser if installed
+mod+n           open newsboat if installed
+mod+m           open ncmpcpp if installed
+mod+x           lock
+mod+v           open visualizer(vis if installed)
+mod+c           open weechat if installed
+mod+i           open vtop if installed
+mod+f           fullscreen
 mod+shift+space toggle floating/tiled window
-mod+space			  focus floating/tiled window
+mod+space       focus floating/tiled window
 mod+arrowkeys   navigate open windows
-mod+{h,j,k,l}		navigate open window vim style
-mod+s				    shrink windows hieght and width
-mod+y 				  calcurse
-mod+shift+t 		default windows size
+mod+{h,j,k,l}   navigate open window vim style
+mod+s           shrink windows hieght and width
+mod+y           calcurse
+mod+shift+t     default windows size
 mod+{1,2,..10}  open the numbered workspace or move to that workspace
-mod+esc				  go through the opend workspace
-mod+tab 			  toggle previous workspace
-mod+/ 				  vertical split window
-mod+'				    horizontal split window
+mod+esc         go through the opend workspace
+mod+tab         toggle previous workspace
+mod+/           vertical split window
+mod+'           horizontal split window
 
-Mod1+s				  window tabbed mode
-Mod1+d				  default tiled mode
-Mod1+h				  window stacked mode
-Mod1+a				  dropdown terminal(suckless terminal)
-Mod1+z				  dropup terminal(suckless terminal)
-Mod1+q				  tilix quake mode
-Mod1+g 				  small scratchpad terminal at top right
-Mod1+i				  htop if installed
-Mod1+w				  websearch script
-Mod1+e				  clipboard script
-Mod1+r				  wifi script
+Mod1+s          window tabbed mode
+Mod1+d          default tiled mode
+Mod1+h          window stacked mode
+Mod1+a          dropdown terminal(suckless terminal)
+Mod1+z          dropup terminal(suckless terminal)
+Mod1+q          tilix quake mode
+Mod1+g          small scratchpad terminal at top right
+Mod1+i          htop if installed
+Mod1+w          websearch script
+Mod1+e          clipboard script
+Mod1+r          wifi script
 
 
 # make sure to configure it in i3 to correct location of my rofi.sh script.  
-ctrl+space 			open rofi application launcher 
+ctrl+space      open rofi application launcher 
 
 ```
 
